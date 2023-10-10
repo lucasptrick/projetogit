@@ -1,0 +1,2 @@
+Este arquivo é um tester a respeito de Branchs
+O mesmo está dentro da "branch1"
